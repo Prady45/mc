@@ -1,5 +1,4 @@
-# mushroom_classification
-The complete end to end mushroom classification project.
+Project
 
 App Link : https://mushr-classification.onrender.com/
 
